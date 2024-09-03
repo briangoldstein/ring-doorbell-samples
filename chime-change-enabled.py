@@ -1,4 +1,5 @@
 """Sample script that uses the ring-doorbell API to enable/disable the in-home chime."""
+"""Based on https://github.com/python-ring-doorbell/python-ring-doorbell/blob/master/test.py"""
 
 import asyncio
 import getpass

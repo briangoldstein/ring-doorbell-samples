@@ -1,4 +1,5 @@
 """Sample script that uses the ring-doorbell API to flip the in-home chime between enabled and disabled."""
+"""Based on https://github.com/python-ring-doorbell/python-ring-doorbell/blob/master/test.py"""
 
 import asyncio
 import getpass
